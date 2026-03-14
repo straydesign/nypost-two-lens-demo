@@ -304,6 +304,20 @@ export default function App() {
                   Thomas Sesler
                 </a>
               </p>
+              <p
+                className="mt-2 text-gray-600"
+                style={{ fontSize: "10px", fontWeight: 500 }}
+              >
+                Built by{" "}
+                <a
+                  href="https://straywebdesign.co"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-500 hover:text-white transition-colors underline"
+                >
+                  Stray Web Design
+                </a>
+              </p>
             </div>
           </footer>
         </motion.div>
